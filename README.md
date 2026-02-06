@@ -31,6 +31,9 @@ calendar
 - S → Previous Year
 - Q → Quit
 
+## Screenshot
+![Calendar Demo](screenshots/calendar-demo.png)
+
 ## Why I Built This
 I wanted to go beyond basic C++ programs and build something interactive.
 This project helped me understand real-world date calculations, user input handling, and clean console UI design.
